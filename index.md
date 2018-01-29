@@ -17,7 +17,7 @@ Help required:
 * Open Cover integration.
 * Jekyll scripts improvement.
 * AppVeyor integration.
-# CakeScript build scripts.
+* CakeScript build scripts.
 
 ### Picsor
 
@@ -27,7 +27,7 @@ Tech stack: C#, EF Core, Mongo C#.
 
 Project status: in dev.
 
-### Gamestoolkit
+### Game's Toolkit
 
 Tech stack: ASP Core, Vortex, C#, AngularJS.
 
