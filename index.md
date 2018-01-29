@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/equilaterus/equilaterus.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are equilaterus, a company that creates videogames and software to empower people and organizations. We love open source and this is our open source community oficial website, so if you want to download or open source products or help us building great software, you have come to the right place.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Our projects
 
-### Markdown
+### Vortex
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Vortex is a .net standard framework focused on programmers productivity.
 
-```markdown
-Syntax highlighted code block
+Tech stack: C#, EF Core, Mongo C#.
 
-# Header 1
-## Header 2
-### Header 3
+Project status: in dev.
 
-- Bulleted
-- List
+Help required: 
 
-1. Numbered
-2. List
+* Open Cover integration.
+* Jekyll scripts improvement.
+* AppVeyor integration.
+# CakeScript build scripts.
 
-**Bold** and _Italic_ and `Code` text
+### Picsor
 
-[Link](url) and ![Image](src)
-```
+Picsor is a desktop software to compress pictures. It is focused on image quality and easeness of use.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Tech stack: C#, EF Core, Mongo C#.
 
-### Jekyll Themes
+Project status: in dev.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/equilaterus/equilaterus.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Gamestoolkit
 
-### Support or Contact
+Tech stack: ASP Core, Vortex, C#, AngularJS.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Project status: starting soon.
