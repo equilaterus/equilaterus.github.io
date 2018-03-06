@@ -1,6 +1,6 @@
 ## Welcome 
 
-We are equilaterus, a company that creates videogames and software to empower people and organizations. We love open source and this is our open source community oficial website, so if you want to download or open source products or help us building great software, you have come to the right place.
+We are equilaterus, a company that creates videogames and software to empower people and organizations. This is our open source community oficial website, so if you want to download our open source solutions or help us building great software, you have come to the right place.
 
 ## Before start
 
@@ -23,10 +23,11 @@ Project status: in dev.
 
 Help required: 
 
-* Open Cover integration.
 * Jekyll scripts improvement.
 * AppVeyor integration.
-* CakeScript build scripts.
+* Open Cover integration  -> Done thanks to [Rulox12](https://github.com/equilaterus/Vortex/commits?author=rulox12)
+* CakeScript build scripts -> Done thanks to [Rulox12](https://github.com/equilaterus/Vortex/commits?author=rulox12).
+* [More Help Wanted](https://github.com/equilaterus/Vortex/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 ### Picsor
 
