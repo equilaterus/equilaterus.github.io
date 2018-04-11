@@ -1,6 +1,6 @@
 ## Welcome 
 
-We are equilaterus, a company that creates videogames and software to empower people and organizations. This is our open source community oficial website, so if you want to download our open source solutions or help us building great software, you have come to the right place.
+We are equilaterus, a company that creates videogames but also software to empower people and organizations. This is our open source community oficial website, so if you want to download our open source solutions or help us building great software, you have came to the right place.
 
 ## Before start
 
