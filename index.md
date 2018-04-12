@@ -15,11 +15,11 @@ You are welcome to contribute to any project and we'll really appreciate your he
 
 ### Vortex
 
-Vortex is a .net standard framework focused on programmers productivity.
+[Vortex](https://github.com/equilaterus/Vortex) is a .net standard framework for [Generic Driven Design](https://dacanizares.github.io/Generic-Driven-Design/).
 
 Tech stack: C#, EF Core, Mongo C#.
 
-Project status: in dev.
+Project status: on pre-alpha.
 
 Help required: 
 
