@@ -23,10 +23,11 @@ Project status: in dev.
 
 Help required: 
 
-* Jekyll scripts improvement.
-* AppVeyor integration.
+* [Mongo2go and xUnit performance](https://github.com/equilaterus/Vortex/issues/21)
+* [Coveralls integration](https://github.com/equilaterus/Vortex/issues/18)
+* [AppVeyor integration.](https://github.com/equilaterus/Vortex/issues/17)
 * Open Cover integration  -> Done thanks to [Rulox12](https://github.com/equilaterus/Vortex/commits?author=rulox12)
-* CakeScript build scripts -> Done thanks to [Rulox12](https://github.com/equilaterus/Vortex/commits?author=rulox12).
+* CakeScript build scripts -> Done thanks to [Rulox12](https://github.com/equilaterus/Vortex/commits?author=rulox12)
 * [More Help Wanted](https://github.com/equilaterus/Vortex/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 ### Picsor
