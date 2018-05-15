@@ -9,7 +9,7 @@ body {
 }
 
 a:hover {
-  font-weight: normal;
+  font-weight: inherit;
 }
 
 header {
@@ -21,6 +21,9 @@ header {
     
     a {
       color: #fff;
+      &:hover {
+        color: #eee;
+      }
     }
   }
 }
