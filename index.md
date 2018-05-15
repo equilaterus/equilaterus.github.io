@@ -1,6 +1,6 @@
 ## Welcome 
 
-We are equilaterus, a company that creates videogames but also software to empower people and organizations. This is our open source community oficial website, so if you want to download our open source solutions or help us building great software, you have came to the right place.
+We are equilaterus, we create videogames but also open source software to empower people and organizations. If you want to download our open source solutions or help us building great software, you have came to the right place.
 
 ## Before start
 
@@ -17,29 +17,26 @@ You are welcome to contribute to any project and we'll really appreciate your he
 
 [Vortex](https://github.com/equilaterus/Vortex) is a .net standard framework for [Generic Driven Design](https://dacanizares.github.io/Generic-Driven-Design/).
 
-Tech stack: C#, EF Core, Mongo C#.
-
 Project status: on pre-alpha.
-
-Help required: 
-
-* [Mongo2go and xUnit performance](https://github.com/equilaterus/Vortex/issues/21)
-* [Coveralls integration](https://github.com/equilaterus/Vortex/issues/18)
-* [AppVeyor integration.](https://github.com/equilaterus/Vortex/issues/17)
-* Open Cover integration  -> Done thanks to [Rulox12](https://github.com/equilaterus/Vortex/commits?author=rulox12)
-* CakeScript build scripts -> Done thanks to [Rulox12](https://github.com/equilaterus/Vortex/commits?author=rulox12)
-* [More Help Wanted](https://github.com/equilaterus/Vortex/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 ### Picsor
 
-Picsor is a desktop software to compress pictures. It is focused on image quality and easeness of use.
-
-Tech stack: C#, EF Core, Mongo C#.
+[Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
 
 Project status: in dev.
 
-### Game's Toolkit
+### CoverScript
 
-Tech stack: ASP Core, Vortex, C#, AngularJS.
+[CoverScript](https://github.com/equilaterus/CoverScript) is a CakeScript to easily generate OpenCover reports for dot net core projects.
+
+Project status: in dev.
+
+### The Science of Code
+
+[The Science of Code](http://thescienceofcode.com) is a community for sharing programming contents.
+
+Project status: legacy support -> new version comming soon.
+
+### Game's Toolkit
 
 Project status: starting soon.
