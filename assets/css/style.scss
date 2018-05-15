@@ -7,3 +7,20 @@
 body {
   font-family: 'Raleway';
 }
+
+a:hover {
+  font-weight: normal;
+}
+
+header {
+  h1 {
+    text-align: center;
+    background-color: #444;
+    margin: 0;
+    line-height: 1.5;
+    
+    a {
+      color: #fff;
+    }
+  }
+}
