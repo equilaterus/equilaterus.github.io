@@ -31,6 +31,12 @@ Project status: in dev.
 
 Project status: in dev.
 
+### WindowsSSD-Script
+
+[WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell to automate symbolic link generation for SSD units on Windows.
+
+Projec status: on pre-alpha.
+
 ### The Science of Code
 
 [The Science of Code](http://thescienceofcode.com) is a community for sharing programming contents.
