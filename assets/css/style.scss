@@ -2,10 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
 
 body {
-  font-family: 'Raleway';
+  font-family: 'Fira Sans';
+  font-size: 17px;
 }
 
 a:hover {
