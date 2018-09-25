@@ -2,11 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 body {
-  font-family: 'Fira Sans';
-  font-size: 17px;
+  font-family: 'Roboto';
+  font-size: 0.9375rem;
 }
 
 a:hover {
