@@ -1,3 +1,9 @@
+---
+layout: default
+title: Equilaterus
+published: true
+---
+
 ## Welcome 
 
 We are equilaterus, we create videogames but also open source software to empower people and organizations. If you want to download our open source solutions or help us building great software, you have came to the right place.
