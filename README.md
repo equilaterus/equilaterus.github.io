@@ -17,7 +17,7 @@ On the folder *util* of the project you will find some bat files that contain re
 
 ## Any OS:
 
-Execute the following commands on the root of the project.
+Execute the following commands from project's root.
 
 1. For the first time:
   ```
