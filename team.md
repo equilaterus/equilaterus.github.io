@@ -5,6 +5,10 @@ permalink: /team/
 published: true
 ---
 
+# Contribute
+
+Interesting in helping us? [See more information](contribute.md)
+
 ## Developers
 
 * Juan Felipe Cañizares Corrales
