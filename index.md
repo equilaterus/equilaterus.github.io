@@ -12,6 +12,12 @@ published: true
 
 Project status: on pre-alpha.
 
+### Bootlaterus
+
+[Bootlaterus](https://github.com/equilaterus/bootlaterus) is the Equilaterus base boostrap theme.
+
+Project status: in dev.
+
 ### Picsor
 
 [Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
@@ -28,7 +34,7 @@ Project status: in dev.
 
 [WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell to automate symbolic link generation for SSD units on Windows.
 
-Projec status: on pre-alpha.
+Project status: on pre-alpha.
 
 ### The Science of Code
 
