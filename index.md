@@ -10,7 +10,7 @@ published: true
 
 [Vortex](https://github.com/equilaterus/Vortex) is a .net standard framework for [Generic Driven Design](https://dacanizares.github.io/Generic-Driven-Design/).
 
-Project status: on pre-alpha.
+Project status: pre-alpha.
 
 ### Bootlaterus
 
@@ -22,7 +22,7 @@ Project status: in dev.
 
 [Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
 
-Project status: in dev.
+Project status: pre-alpha.
 
 ### CoverScript
 
@@ -34,7 +34,7 @@ Project status: in dev.
 
 [WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell to automate symbolic link generation for SSD units on Windows.
 
-Project status: on pre-alpha.
+Project status: pre-alpha.
 
 ### The Science of Code
 
