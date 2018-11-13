@@ -6,7 +6,10 @@ Published on Github Pages at (https://equilaterus.github.io).
 
 ## How to start working
 
+### Pre-requisites
+
 * Install Ruby: (https://www.ruby-lang.org/en/downloads/)
+
 * Clone repository: [wikilaterus instructions](https://github.com/equilaterus/wikilaterus/wiki/Cloning-a-repo-on-Github).
 
 ### Windows:
@@ -19,7 +22,7 @@ On the folder *util* of the project you will find some bat files that contain re
 
 3. Run **win-run-site.bat** to execute the site. Command line will show you the localhost url where the site was deployed.
 
-## Any OS:
+### Any OS:
 
 Execute the following commands from project's root.
 
@@ -38,6 +41,6 @@ Execute the following commands from project's root.
   bundle exec jekyll serve
   ```
 
-# License
+## License
 
 The content of this project itself is licensed under the Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) license, and the underlying source code used to format and display that content is licensed under the MIT license.
