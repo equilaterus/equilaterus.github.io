@@ -27,19 +27,19 @@ On the folder *util* of the project you will find some bat files that contain re
 Execute the following commands from project's root.
 
 1. For the first time:
-  ```
-  gem install bundler
-  ```
+   ```
+   gem install bundler
+   ```
 
 2. Download all dependecies:
-  ```
-  bundle install
-  ```
+   ```
+   bundle install
+   ```
 
 3. Run the server:
-  ```
-  bundle exec jekyll serve
-  ```
+   ```
+   bundle exec jekyll serve
+   ```
 
 ## License
 
