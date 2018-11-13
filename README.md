@@ -1,5 +1,7 @@
 # Equilaterus Github Page
 
+[![Build Status](https://travis-ci.org/equilaterus/equilaterus.github.io.svg?branch=master)](https://travis-ci.org/equilaterus/equilaterus.github.io) 
+
 Published on Github Pages at (https://equilaterus.github.io).
 
 ## How to start working
