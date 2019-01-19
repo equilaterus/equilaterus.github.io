@@ -6,42 +6,33 @@ published: true
 
 ## Open Source projects
 
-### Vortex
+### Under active development
 
-[Vortex](https://github.com/equilaterus/Vortex) is a .net standard framework for [Generic Driven Design](https://dacanizares.github.io/Generic-Driven-Design/).
+* [**Vortex**](https://github.com/equilaterus/Vortex) is an ASP Core framework for Functional Programming. 
+  * *Latest release: pre-alpha.*
 
-Project status: pre-alpha.
+* [**bootlaterus**](https://github.com/equilaterus/bootlaterus) is the Equilaterus base boostrap theme.
+  * *Latest release: N/A.*
 
-### Bootlaterus
+* [**Picsor**](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
+  * *Latest release: pre-alpha.*
 
-[Bootlaterus](https://github.com/equilaterus/bootlaterus) is the Equilaterus base boostrap theme.
+* [**The Science of Code**](http://thescienceofcode.com) is a community for sharing programming contents.
+  * *Project status: legacy support -> new version comming soon.*.
 
-Project status: in dev.
+* **Game's Toolkit**
+  * *Project status: starting soon.*
 
-### Picsor
 
-[Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
+### Stand-by
 
-Project status: pre-alpha.
+* [**WindowsSSD-Script**](https://github.com/equilaterus/WindowsSSD-Script) is Powershell to automate symbolic link generation for SSD units on Windows.
 
-### CoverScript
+  * *Latest release: pre-alpha.*
 
-[CoverScript](https://github.com/equilaterus/CoverScript) is a CakeScript to easily generate OpenCover reports for dot net core projects.
 
-Project status: in dev.
+* [CoverScript](https://github.com/equilaterus/CoverScript) is a CakeScript to easily generate OpenCover reports for dot net core projects.
 
-### WindowsSSD-Script
+  * *Project status: stopped development.*
 
-[WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell to automate symbolic link generation for SSD units on Windows.
 
-Project status: pre-alpha.
-
-### The Science of Code
-
-[The Science of Code](http://thescienceofcode.com) is a community for sharing programming contents.
-
-Project status: legacy support -> new version comming soon.
-
-### Game's Toolkit
-
-Project status: starting soon.
