@@ -3,3 +3,5 @@ logo: /assets/img/equilaterus.PNG
 title: Open Source
 description: 
 repository: equilaterus/equilaterus.github.io
+github:
+  zip_url: https://github.com/equilaterus/WindowsSSD-Script/releases/latest
