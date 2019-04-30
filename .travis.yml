@@ -5,6 +5,7 @@ rvm: 2.5
 
 install: 
   - gem install bundler
+  - bundle update --bundler
   - bundle install
 script:
   - bundle exec jekyll build
