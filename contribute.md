@@ -16,4 +16,10 @@ You are welcome to contribute to any project and we'll really appreciate your he
 
 ## Contact us
 
-dacanizares@equilaterus.com
+* Daniel Cañizares: 
+  * dacanizares@equilaterus.com
+  * dacanizares@outlook.com
+
+* Juan Felipe Cañizares:
+  * pipecaniza@equilaterus.com
+  * pipecaniza@outlook.com
