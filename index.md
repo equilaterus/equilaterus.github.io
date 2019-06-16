@@ -10,36 +10,56 @@ published: true
 
 ## Open Source projects
 
-### Under active development
+### Vortex
 
-* [Vortex](https://github.com/equilaterus/Vortex) is an ASP Core framework for Functional Programming.
+[Vortex](https://github.com/equilaterus/Vortex) is an ASP Core framework for Functional Programming.
 
-  * [Official website](https://equilaterus.github.io/Vortex/)
+* [Official website](https://equilaterus.github.io/Vortex/)
 
-  * Published at nuget.org [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.svg)](https://www.nuget.org/packages/Equilaterus.Vortex/)
+* Published at nuget.org [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.svg)](https://www.nuget.org/packages/Equilaterus.Vortex/)
 
-* [bootlaterus](https://github.com/equilaterus/bootlaterus) is the Equilaterus base boostrap theme.
+**Extensions**:
 
-    * [Official website](https://equilaterus.github.io/bootlaterus/)
+* [Vortex.AutoMapper.Extensions](https://github.com/equilaterus/Vortex.AutoMapper.Extensions): Use Vortex side-by-side with AutoMapper using extension methods for IMapper that return mapped data wrapped directly into a Vortex's Monad/Functor Maybe.
 
-  * Published at NPM [![npm version](https://badge.fury.io/js/bootlaterus.svg)](https://badge.fury.io/js/bootlaterus) 
+  * Published at nuget.org [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.AutoMapper.Extensions.svg)](https://www.nuget.org/packages/Equilaterus.Vortex.AutoMapper.Extensions/)
 
-* [Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
+### Bootlaterus
 
-  * Download directly from [Github Releases](https://github.com/equilaterus/Picsor/releases)
+[Bootlaterus](https://github.com/equilaterus/bootlaterus) is a Compatible and Easy to use Bootstrap Superset.
 
-* [WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell script to automate symbolic link generation for SSD units on Windows.
+* [Official website](https://equilaterus.github.io/bootlaterus/)
 
-  * [Official website](https://equilaterus.github.io/WindowsSSD-Script/)
+* Published at NPM [![npm version](https://badge.fury.io/js/bootlaterus.svg)](https://badge.fury.io/js/bootlaterus) 
 
-  * Download directly from [Github Releases](https://github.com/equilaterus/WindowsSSD-Script/releases)
+**Extensions**:
 
+* Easily integrate Bootlaterus (or vanilla Bootstrap) into your GitHub Pages with [bootlaterus.gh-pages](https://github.com/equilaterus/bootlaterus.gh-pages)
 
-* [The Science of Code](http://thescienceofcode.com) is a community for sharing programming contents.
+### Picsor
+
+[Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
+
+* Download directly from [Github Releases](https://github.com/equilaterus/Picsor/releases)
+
+### WindowsSSD-Script
+
+[WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell script to automate symbolic link generation for SSD units on Windows.
+
+* [Official website](https://equilaterus.github.io/WindowsSSD-Script/)
+
+* Download directly from [Github Releases](https://github.com/equilaterus/WindowsSSD-Script/releases)
+
+### The Science of Code
+
+[The Science of Code](http://thescienceofcode.com) is a community for sharing programming contents.
   * *Project status: legacy support -> new version comming soon.*.
 
-* [Game's Toolkit](https://github.com/gamestoolkit)
-  * *Project status: under development.*
+### GamesToolkit
+
+[Games Toolkit](https://github.com/gamestoolkit)
+  
+* *Project status: under development.*
 
 
 ### Paused
