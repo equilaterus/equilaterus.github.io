@@ -64,8 +64,8 @@ published: true
 
 ### Paused
 
-* [CoverScript](https://github.com/equilaterus/CoverScript) is a CakeScript to easily generate OpenCover reports for dot net core projects.
+[CoverScript](https://github.com/equilaterus/CoverScript) is a CakeScript to easily generate OpenCover reports for dot net core projects. 
 
-  * *Project status: stopped development.*
+* *Project status: stopped development.*
 
 
