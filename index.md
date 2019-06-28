@@ -6,7 +6,7 @@ published: true
 
 ## Videogames
 
-[**Equilaterus Gamestudios** website](http://equilaterus.azurewebsites.net/). 
+[**Equilaterus Gamestudios** website](https://equilaterus.azurewebsites.net/). 
 
 ## Open Source projects
 
