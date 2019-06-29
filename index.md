@@ -24,7 +24,7 @@ published: true
 
 * [Vortex.AutoMapper.Extensions](https://github.com/equilaterus/Vortex.AutoMapper.Extensions)
 
-  [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.AutoMapper.Extensions.svg)](https://www.nuget.org/packages/Equilaterus.Vortex.AutoMapper.Extensions/)
+  [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.AutoMapper.Extensions.svg)](https://www.nuget.org/packages/Equilaterus.Vortex.AutoMapper.Extensions/)  [![GitHub license](https://img.shields.io/github/license/equilaterus/Vortex.AutoMapper.Extensions.svg)](https://github.com/equilaterus/Vortex.AutoMapper.Extensions/blob/master/LICENSE)
 
   Use Vortex side-by-side with AutoMapper using extension methods for IMapper that return mapped data wrapped directly into a Vortex's Monad/Functor Maybe.
 
@@ -36,15 +36,21 @@ published: true
 
 ### Bootlaterus
 
+[![npm version](https://badge.fury.io/js/bootlaterus.svg)](https://badge.fury.io/js/bootlaterus) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.svg)](https://github.com/equilaterus/bootlaterus/blob/master/LICENSE)
+
 [Bootlaterus](https://github.com/equilaterus/bootlaterus) is a Compatible and Easy to use Bootstrap Superset.
 
 * [Official website](https://equilaterus.github.io/bootlaterus/)
 
-* Published at NPM [![npm version](https://badge.fury.io/js/bootlaterus.svg)](https://badge.fury.io/js/bootlaterus) 
+* Published at [NPM](https://www.npmjs.com/package/bootlaterus)
 
 **Extensions**:
 
-* Easily integrate Bootlaterus (or vanilla Bootstrap) into your GitHub Pages with [bootlaterus.gh-pages](https://github.com/equilaterus/bootlaterus.gh-pages)
+* [bootlaterus.gh-pages](https://github.com/equilaterus/bootlaterus.gh-pages)
+
+  [![GitHub release](https://img.shields.io/github/tag/equilaterus/bootlaterus.gh-pages.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.gh-pages.svg)](https://github.com/equilaterus/bootlaterus.gh-pages/blob/master/LICENSE)
+
+  Easily integrate Bootlaterus (or vanilla Bootstrap) into your GitHub Pages with 
 
 ### Picsor
 
