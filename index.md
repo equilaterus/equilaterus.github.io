@@ -12,17 +12,27 @@ published: true
 
 ### Vortex
 
+[![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.svg)](https://www.nuget.org/packages/Equilaterus.Vortex/) [![GitHub license](https://img.shields.io/github/license/equilaterus/Vortex.svg)](https://github.com/equilaterus/Vortex/blob/master/LICENSE)
+
 [Vortex](https://github.com/equilaterus/Vortex) is an ASP Core framework for Functional Programming.
 
-* [Official website](https://equilaterus.github.io/Vortex/)
+* [Official website](https://equilaterus.github.io/Vortex/).
 
-* Published at nuget.org [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.svg)](https://www.nuget.org/packages/Equilaterus.Vortex/)
+* Published at [nuget.org](https://www.nuget.org/packages/Equilaterus.Vortex/).
 
 **Extensions**:
 
-* [Vortex.AutoMapper.Extensions](https://github.com/equilaterus/Vortex.AutoMapper.Extensions): Use Vortex side-by-side with AutoMapper using extension methods for IMapper that return mapped data wrapped directly into a Vortex's Monad/Functor Maybe.
+* [Vortex.AutoMapper.Extensions](https://github.com/equilaterus/Vortex.AutoMapper.Extensions)
 
-  * Published at nuget.org [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.AutoMapper.Extensions.svg)](https://www.nuget.org/packages/Equilaterus.Vortex.AutoMapper.Extensions/)
+  [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.AutoMapper.Extensions.svg)](https://www.nuget.org/packages/Equilaterus.Vortex.AutoMapper.Extensions/)
+
+  Use Vortex side-by-side with AutoMapper using extension methods for IMapper that return mapped data wrapped directly into a Vortex's Monad/Functor Maybe.
+
+[**Samples**](https://github.com/equilaterus/Vortex.Samples):
+
+* [VortexSamples.ConcurrentOrdering](https://github.com/equilaterus/VortexSamples.ConcurrentOrdering)
+
+* [VortexSamples.TodoApp](https://github.com/equilaterus/VortexSamples.TodoApp) *Work in Progress*
 
 ### Bootlaterus
 
