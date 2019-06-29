@@ -48,17 +48,21 @@ published: true
 
 * [bootlaterus.gh-pages](https://github.com/equilaterus/bootlaterus.gh-pages)
 
-  [![GitHub release](https://img.shields.io/github/tag/equilaterus/bootlaterus.gh-pages.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.gh-pages.svg)](https://github.com/equilaterus/bootlaterus.gh-pages/blob/master/LICENSE)
+  [![GitHub release](https://img.shields.io/github/tag/equilaterus/bootlaterus.gh-pages.svg)](https://GitHub.com/equilaterus/bootlaterus.gh-pages/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.gh-pages.svg)](https://github.com/equilaterus/bootlaterus.gh-pages/blob/master/LICENSE)
 
   Easily integrate Bootlaterus (or vanilla Bootstrap) into your GitHub Pages with 
 
 ### Picsor
+
+[![GitHub release](https://img.shields.io/github/tag/equilaterus/picsor.svg)](https://GitHub.com/equilaterus/picsor/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/picsor.svg)](https://github.com/equilaterus/picsor/blob/master/LICENSE)
 
 [Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
 
 * Download directly from [Github Releases](https://github.com/equilaterus/Picsor/releases)
 
 ### WindowsSSD-Script
+
+[![GitHub release](https://img.shields.io/github/tag/equilaterus/WindowsSSD-Script.svg)](https://GitHub.com/equilaterus/WindowsSSD-Script/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/WindowsSSD-Script.svg)](https://github.com/equilaterus/WindowsSSD-Script/blob/master/LICENSE)
 
 [WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell script to automate symbolic link generation for SSD units on Windows.
 
