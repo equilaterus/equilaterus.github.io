@@ -10,7 +10,7 @@ published: true
 
 ## Open Source projects
 
-### Vortex
+## Vortex
 
 [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.svg)](https://www.nuget.org/packages/Equilaterus.Vortex/) [![GitHub license](https://img.shields.io/github/license/equilaterus/Vortex.svg)](https://github.com/equilaterus/Vortex/blob/master/LICENSE)
 
@@ -34,7 +34,7 @@ published: true
 
 * [VortexSamples.TodoApp](https://github.com/equilaterus/VortexSamples.TodoApp) *Work in Progress*
 
-### Bootlaterus
+## Bootlaterus
 
 [![npm version](https://badge.fury.io/js/bootlaterus.svg)](https://badge.fury.io/js/bootlaterus) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.svg)](https://github.com/equilaterus/bootlaterus/blob/master/LICENSE)
 
@@ -52,7 +52,7 @@ published: true
 
   Easily integrate Bootlaterus (or vanilla Bootstrap) into your GitHub Pages with 
 
-### Picsor
+## Picsor
 
 [![GitHub release](https://img.shields.io/github/tag/equilaterus/picsor.svg)](https://GitHub.com/equilaterus/picsor/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/picsor.svg)](https://github.com/equilaterus/picsor/blob/master/LICENSE)
 
@@ -60,7 +60,7 @@ published: true
 
 * Download directly from [Github Releases](https://github.com/equilaterus/Picsor/releases)
 
-### WindowsSSD-Script
+## WindowsSSD-Script
 
 [![GitHub release](https://img.shields.io/github/tag/equilaterus/WindowsSSD-Script.svg)](https://GitHub.com/equilaterus/WindowsSSD-Script/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/WindowsSSD-Script.svg)](https://github.com/equilaterus/WindowsSSD-Script/blob/master/LICENSE)
 
@@ -70,19 +70,19 @@ published: true
 
 * Download directly from [Github Releases](https://github.com/equilaterus/WindowsSSD-Script/releases)
 
-### The Science of Code
+## The Science of Code
 
 [The Science of Code](http://thescienceofcode.com) is a community for sharing programming contents.
   * *Project status: legacy support -> new version comming soon.*.
 
-### GamesToolkit
+## GamesToolkit
 
 [Games Toolkit](https://github.com/gamestoolkit)
   
 * *Project status: under development.*
 
 
-### Paused
+## Paused
 
 [CoverScript](https://github.com/equilaterus/CoverScript) is a CakeScript to easily generate OpenCover reports for dot net core projects. 
 
