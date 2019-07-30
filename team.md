@@ -12,5 +12,6 @@ Interesting in helping us? [See more information](contribute.md)
 * Juan Felipe Cañizares Corrales
 * Hugo Rodríguez Franco
 * Daniel Cañizares Corrales
+* Manuel Sánchez Rave
 * Edwin Osorio Gaviria
 * David Castro Montes
