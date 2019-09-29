@@ -1,33 +1,36 @@
-<footer class="container">
-  <hr />
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <h2>{{ site.title | escape }}</h2>
-
-  <div class="row">
-    <div class="col">
+<div class="bg-dark-alpha-2">
+  <footer class="container">
+    <div class="row py-5 row-eq-height text-white">
+      <div class="col-sm-3 h-100">
         <ul class="list-unstyled">
-          {%- if site.author -%}
-          <li class="lead">{{ site.author | escape }}</li>
-          {%- else -%}
-          <li class="lead">{{ site.title | escape }}</li>
-          {%- endif -%}
-          {%- if site.email -%}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {%- endif -%}
-          {%- if site.website -%}
-          <li><a href="{{ site.website }}" target="_blank" rel="noopener">{{ site.website }}</a></li>
-          {%- endif -%}
+          <li class="text-muted">Equilaterus</li>
+          <li><a class="text-reset" href="https://equilaterus.github.io/">Home page</a></li>
+          <li><a class="text-reset" href="https://equilaterus.azurewebsites.net/" target="_blank" rel="noopener noreferrer">Videogames</a></li>
+          <li><a class="text-reset" href="{{ site.baseurl }}/opensource">Open Source</a></li>
         </ul>
+      </div>
+      <div class="col-sm-3 h-100">
+        <ul class="list-unstyled">
+          <li class="text-muted">Links</li>
+          <li><a class="text-reset" href="https://github.com/equilaterus" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+          <li><a class="text-reset" href="https://equilaterus.github.io/wikilaterus" target="_blank" rel="noopener noreferrer">Wikilaterus</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3 h-100">
+        <ul class="list-unstyled">
+          <li class="text-muted">Social</li>
+          <li><a class="text-reset" href="https://www.facebook.com/equilaterus" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+          <li><a class="text-reset" href="https://twitter.com/equilaterusgs" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+          <li><a class="text-reset" href="https://www.linkedin.com/company/equilaterus" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3 h-100">
+        <a class="text-reset text-center text-decoration-none d-flex flex-column" href="https://equilaterus.github.io" target="_blank" rel="noopener noreferrer">
+          <img style="max-width: 60px" class="img-fluid mx-auto" src="https://equilaterus.github.io/wikilaterus/assets/img/logo-windmill-alpha-sm.png" alt="logo equilaterus">
+          <span class="h-font mt-2">Equilaterus</span>
+          <small class="text-muted">(CC) 2018 - 2019</small>
+        </a>
+      </div>
     </div>
-
-    <div class="col">
-      {%- include social.html -%}
-    </div>
-
-    <div class="col">
-      <p>{{- site.description | escape -}}</p>
-    </div>
-  </div>
-
-</footer>
+  </footer>
+</div>

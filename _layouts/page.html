@@ -2,8 +2,16 @@
 layout: default
 ---
 
-{%- if page.title and page.hide_title != true -%}
-<h1>{{ page.title | escape }}</h1>
-{%- endif -%}
+<div class="vh-50 bg-cf-indigo-teal position-relative text-white">
+  {%- if page.title and page.hide_title != true -%}
+  <p class="hv-center h3-font-size h-font text-shadow">{{ page.title | escape }}</p>
+  {%- endif -%}
+</div>
+
+<div class="bg-white">
+<div class="container py-5">
 
 {{ content }}
+
+</div>
+</div>

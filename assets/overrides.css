@@ -1,10 +1,16 @@
-#main-container {
-  padding-top: 100px !important;
-}
-
 .svg-icon {
   width: 16px;
   height: 16px;
   margin-right: 5px;
   fill: #828282;
+}
+
+.navbar-brand img {
+  max-height: 35px;
+  position: absolute;
+  top: 7px;
+}
+
+.navbar-brand span {
+  padding-left: 40px;
 }
