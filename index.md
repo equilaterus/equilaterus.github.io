@@ -4,88 +4,40 @@ title: Equilaterus
 published: true
 ---
 
-## Videogames
+<div class="vh-100 bg-cf-indigo-teal">
+  <div class="hv-center text-white text-center text-shadow">
+    <p class="h1 font-weight-lighter">Empowering</p>
+    <p class="h2 font-weight-lighter">Programmers and Creators</p>
+  </div>
 
-[**Equilaterus Gamestudios** website](https://equilaterus.azurewebsites.net/). 
+  <span class="to-bottom h-center display-4 text-white">
+    <a href="#main-container" class="text-light"><i class="fas fa-angle-down"></i>
+    </a>
+  </span>
+</div>
 
-## Open Source projects
+<div id="main-container" aria-label="Content">
+  <div class="background" style="background-image: url(https://equilaterus.azurewebsites.net/Content/tree.jpg)" >
+    <div class="bg-cf-red-orange vh-50">
+      <div class="hv-center text-white text-center text-shadow">
+        <p style="font-family: 'Fontdiner Swanky'; font-size: 45px">
+          Equilaterus        
+        </p>
+        <p class="h-font position-relative mb-0" style="font-size: 25px; top: -20px;">Gamestudios</p>
+        <a class="btn btn-secondary-alt btn-lg mr-2 h-font mb-2" href="https://equilaterus.azurewebsites.net/" target="_blank">Learn more</a>
+      </div>
+    </div>
+  </div>
 
-## Vortex
-
-[![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.svg)](https://www.nuget.org/packages/Equilaterus.Vortex/) [![GitHub license](https://img.shields.io/github/license/equilaterus/Vortex.svg)](https://github.com/equilaterus/Vortex/blob/master/LICENSE)
-
-[Vortex](https://github.com/equilaterus/Vortex) is an ASP Core framework for Functional Programming.
-
-* [Official website](https://equilaterus.github.io/Vortex/).
-
-* Published at [nuget.org](https://www.nuget.org/packages/Equilaterus.Vortex/).
-
-**Extensions**:
-
-* [Vortex.AutoMapper.Extensions](https://github.com/equilaterus/Vortex.AutoMapper.Extensions)
-
-  [![nuget](https://img.shields.io/nuget/v/Equilaterus.Vortex.AutoMapper.Extensions.svg)](https://www.nuget.org/packages/Equilaterus.Vortex.AutoMapper.Extensions/)  [![GitHub license](https://img.shields.io/github/license/equilaterus/Vortex.AutoMapper.Extensions.svg)](https://github.com/equilaterus/Vortex.AutoMapper.Extensions/blob/master/LICENSE)
-
-  Use Vortex side-by-side with AutoMapper using extension methods for IMapper that return mapped data wrapped directly into a Vortex's Monad/Functor Maybe.
-
-[**Samples**](https://github.com/equilaterus/Vortex.Samples):
-
-* [VortexSamples.ConcurrentOrdering](https://github.com/equilaterus/VortexSamples.ConcurrentOrdering)
-
-* [VortexSamples.TodoApp](https://github.com/equilaterus/VortexSamples.TodoApp) *Work in Progress*
-
-## Bootlaterus
-
-[![npm version](https://badge.fury.io/js/bootlaterus.svg)](https://badge.fury.io/js/bootlaterus) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.svg)](https://github.com/equilaterus/bootlaterus/blob/master/LICENSE)
-
-[Bootlaterus](https://github.com/equilaterus/bootlaterus) is a Compatible and Easy to use Bootstrap Superset.
-
-* [Official website](https://equilaterus.github.io/bootlaterus/)
-
-* Published at [NPM](https://www.npmjs.com/package/bootlaterus)
-
-**Extensions**:
-
-* [bootlaterus.gh-pages](https://github.com/equilaterus/bootlaterus.gh-pages)
-
-  [![GitHub release](https://img.shields.io/github/tag/equilaterus/bootlaterus.gh-pages.svg)](https://GitHub.com/equilaterus/bootlaterus.gh-pages/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/bootlaterus.gh-pages.svg)](https://github.com/equilaterus/bootlaterus.gh-pages/blob/master/LICENSE)
-
-  Easily integrate Bootlaterus (or vanilla Bootstrap) into your GitHub Pages with 
-
-## Picsor
-
-[![GitHub release](https://img.shields.io/github/tag/equilaterus/picsor.svg)](https://GitHub.com/equilaterus/picsor/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/picsor.svg)](https://github.com/equilaterus/picsor/blob/master/LICENSE)
-
-[Picsor](https://github.com/equilaterus/Picsor) is a desktop software to compress pictures. It is focused on image quality and easeness of use.
-
-* Download directly from [Github Releases](https://github.com/equilaterus/Picsor/releases)
-
-## WindowsSSD-Script
-
-[![GitHub release](https://img.shields.io/github/tag/equilaterus/WindowsSSD-Script.svg)](https://GitHub.com/equilaterus/WindowsSSD-Script/releases/) [![GitHub license](https://img.shields.io/github/license/equilaterus/WindowsSSD-Script.svg)](https://github.com/equilaterus/WindowsSSD-Script/blob/master/LICENSE)
-
-[WindowsSSD-Script](https://github.com/equilaterus/WindowsSSD-Script) is Powershell script to automate symbolic link generation for SSD units on Windows.
-
-* [Official website](https://equilaterus.github.io/WindowsSSD-Script/)
-
-* Download directly from [Github Releases](https://github.com/equilaterus/WindowsSSD-Script/releases)
-
-## The Science of Code
-
-[The Science of Code](http://thescienceofcode.com) is a community for sharing programming contents.
-  * *Project status: legacy support -> new version comming soon.*.
-
-## GamesToolkit
-
-[Games Toolkit](https://github.com/gamestoolkit)
-  
-* *Project status: under development.*
-
-
-## Paused
-
-[CoverScript](https://github.com/equilaterus/CoverScript) is a CakeScript to easily generate OpenCover reports for dot net core projects. 
-
-* *Project status: stopped development.*
-
-
+  <div class="background" style="background-image: url(https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80)">
+    <div class="bg-cf-cyan-blue vh-50">
+      <div class="hv-center text-white text-center text-shadow">
+        <p class="h-font" style="font-size: 45px">
+          Open Source Projects
+        </p>
+        <a class="btn btn-secondary-alt btn-lg mr-2 h-font mb-2" href="opensource">Learn more</a>
+        <a class="btn btn-primary btn-lg h-font mb-2" href="https://github.com/equilaterus">GitHub</a>
+      </div>
+    </div>
+  </div>
+</div>
