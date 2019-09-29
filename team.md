@@ -5,7 +5,7 @@ permalink: /team/
 published: true
 ---
 
-Interesting in helping us? [See more information](contribute.md)
+Do you want to join us? [See more information](contribute.md)
 
 ## Developers
 
