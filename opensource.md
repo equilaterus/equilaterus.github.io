@@ -118,7 +118,7 @@ published: true
       <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus/WindowsSSD-Script">
         <div class="embed-responsive embed-responsive-16by9">
           <div class="cf cf-indigo-teal">
-            <img src="https://equilaterus.github.io/WindowsSSD-Script/assets/img/windowsssd-script.png" class="card-img embed-responsive-item" style="object-fit: cover;" />
+            <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80" class="card-img embed-responsive-item" style="object-fit: cover;" />
           </div>
         </div>
         <div class="card-body d-flex flex-column">
@@ -128,6 +128,27 @@ published: true
             <img src="https://img.shields.io/github/license/equilaterus/WindowsSSD-Script.svg" alt="GitHub license">
           </p>
           <p class="card-text">Extend the lifetime of your SSD unit on Windows.</p>  
+          <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm-4 py-3">
+    <div class="card h-100 interactable hover-animate-cf">
+      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus/cli-tools-powershell">
+        <div class="embed-responsive embed-responsive-16by9">
+          <div class="cf cf-indigo-teal">
+            <img src="https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80" class="card-img embed-responsive-item" style="object-fit: cover;" />
+          </div>
+        </div>
+        <div class="card-body d-flex flex-column">
+          <p class="card-title h5 mb-1">CLI-Tools for Powershell</p>
+          <p>
+            <img src="https://img.shields.io/github/tag/equilaterus/cli-tools-powershell.svg" alt="GitHub release">
+            <img src="https://img.shields.io/github/license/equilaterus/cli-tools-powershell.svg" alt="GitHub license">
+          </p>
+          <p class="card-text">Effortless Powershell Scripting.</p>  
           <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
         </div>
       </a>
