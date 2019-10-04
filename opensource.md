@@ -55,7 +55,7 @@ published: true
 
   <div class="col-sm-4 py-3">
     <div class="card h-100 interactable hover-animate-cf">
-      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus/bootlaterus.gh-pages">
+      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus/Picsor">
         <div class="embed-responsive embed-responsive-16by9">
           <div class="cf cf-indigo-teal">
             <img src="https://images.unsplash.com/photo-1530251985675-fa6a8ceb0d63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80" class="card-img embed-responsive-item" style="object-fit: cover;" />
