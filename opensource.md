@@ -21,6 +21,7 @@ published: true
           <p>
             <img src="https://img.shields.io/nuget/v/Equilaterus.Vortex.svg" alt="nuget"/>
             <img src="https://img.shields.io/github/license/equilaterus/Vortex.svg" alt="GitHub license"/>
+            <img src="https://www.codefactor.io/repository/github/equilaterus/Vortex/badge" alt="CodeFactor" />
           </p>
           <p class="card-text">The ASP Core framework for Functional Programming.</p>  
           <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
@@ -43,6 +44,7 @@ published: true
           <p>
             <img src="https://badge.fury.io/js/bootlaterus.svg" alt="nuget"/>
             <img src="https://img.shields.io/github/license/equilaterus/bootlaterus.svg" alt="GitHub license"/>
+            <img src="https://www.codefactor.io/repository/github/equilaterus/bootlaterus/badge" alt="CodeFactor" />
           </p>
           <p class="card-text">The Compatible and Friendly Bootstrap Superset.</p>  
           <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
@@ -64,6 +66,7 @@ published: true
           <p>
             <img src="https://img.shields.io/github/tag/equilaterus/picsor.svg" alt="GitHub release">
             <img src="https://img.shields.io/github/license/equilaterus/picsor.svg" alt="GitHub license">
+            <img src="https://www.codefactor.io/repository/github/equilaterus/picsor/badge" alt="CodeFactor" />
           </p>
           <p class="card-text">Just two clicks to compress your images without compromising quality.</p>  
           <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
@@ -84,6 +87,7 @@ published: true
           <p class="card-title h5 mb-1">Gamestoolkit</p>
           <p>
             <img src="https://img.shields.io/github/license/gamestoolkit/Rocket.svg" alt="GitHub license">
+            <img src="https://www.codefactor.io/repository/github/gamestoolkit/Rocket/badge" alt="CodeFactor" />
           </p>
           <p class="card-text">The definitive website for game creators (Under development).</p>  
           <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
