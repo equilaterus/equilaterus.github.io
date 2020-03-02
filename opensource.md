@@ -149,7 +149,7 @@ published: true
         <div class="card-body d-flex flex-column">
           <p class="card-title h5 mb-1">CLI-Tools for Powershell</p>
           <p>
-            <img src="https://img.shields.io/github/tag/equilaterus/cli-tools-powershell.svg" alt="GitHub release">
+            <img src="https://img.shields.io/github/v/release/equilaterus/cli-tools-powershell?include_prereleases" alt="GitHub release">
             <img src="https://img.shields.io/github/license/equilaterus/cli-tools-powershell.svg" alt="GitHub license">
           </p>
           <p class="card-text">Effortless Powershell Scripting.</p>  
