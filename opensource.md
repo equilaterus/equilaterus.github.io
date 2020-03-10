@@ -216,7 +216,7 @@ published: true
         <div class="card-body d-flex flex-column">
           <p class="card-title h5 mb-1">Bootlaterus.GithubPages</p>
           <p>
-            <img src="https://img.shields.io/github/tag/equilaterus/bootlaterus.gh-pages.svg" alt="GitHub release">
+            <img src="https://img.shields.io/github/v/release/equilaterus/bootlaterus.gh-pages?include_prereleases" alt="GitHub release">
             <img src="https://img.shields.io/github/license/equilaterus/picsor.svg" alt="GitHub license">
           </p>
           <p class="card-text">Easily integrate Bootlaterus (or vanilla Bootstrap) into your GitHub Pages</p>  
