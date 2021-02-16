@@ -8,6 +8,28 @@ published: true
 <h2 class="text-center">Main projects</h2>
 
 <div class="row justify-content-sm-center">
+
+  <div class="col-sm-4 py-3">
+    <div class="card h-100 interactable hover-animate-cf">
+      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/PlasticSCM-GitHub-extension">
+        <div class="embed-responsive embed-responsive-16by9">
+          <div class="cf cf-indigo-teal">
+            <img src="https://images.unsplash.com/photo-1597733336794-12d05021d510?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw&auto=format&fit=crop&w=700&q=80" class="card-img embed-responsive-item" style="object-fit: cover;" />
+          </div>
+        </div>
+        <div class="card-body d-flex flex-column">
+          <p class="card-title h5 mb-1">PlasticSCM + GitHub</p>
+          <p>
+            <img src="https://img.shields.io/github/v/release/equilaterus-gamestudios/PlasticSCM-GitHub-extension?include_prereleases" alt="GitHub release">
+            <img src="https://img.shields.io/github/license/equilaterus-gamestudios/PlasticSCM-GitHub-extension.svg" alt="GitHub license">
+          </p>
+          <p class="card-text">Integrate PlasticSCM with GitHub. Access your tasks directly from Plastic!</p>  
+          <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
+        </div>
+      </a>
+    </div>
+  </div>
+
   <div class="col-sm-4 py-3">
     <div class="card h-100 interactable hover-animate-cf">
       <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus/Vortex">
