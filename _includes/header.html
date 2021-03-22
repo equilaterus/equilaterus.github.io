@@ -3,7 +3,8 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="navbar-brand" href="{{ "/" | relative_url }}">
-      <img class="img-fluid" src="https://equilaterus.github.io/wikilaterus/assets/img/logo-windmill-alpha-sm.png" alt="logo equilaterus"> <span>Equilaterus</span>
+      <img class="img-fluid" src="{{ site.baseurl }}/assets/img/equilaterus-animated.png" alt="logo equilaterus"><span class="logo-bg"></span>
+      <span><span class="first-char">E</span>QUILATERUS</span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -19,9 +20,6 @@
         <li class="nav-item">
           <a class="nav-link" href="{{ site.baseurl }}/opensource">Open Source</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/team">Team</a>
-        </li>
       </ul>
 
       <ul class="navbar-nav">
@@ -33,5 +31,5 @@
   </div>
 </nav>
 
-<div class="background background-fixed-full" style="background-image: url(https://images.unsplash.com/photo-1446776877081-d282a0f896e2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a34debf85fb97a6cf279d0b5f661bb1e&auto=format&fit=crop&w=1352&q=80);">
+<div class="background background-fixed-full" style="background-image: url(https://images.unsplash.com/photo-1559590836-9eb74007ab44?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);">
 </div>

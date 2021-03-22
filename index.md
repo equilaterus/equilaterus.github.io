@@ -4,7 +4,7 @@ title: Equilaterus
 published: true
 ---
 
-<div class="vh-100 bg-cf-indigo-teal">
+<div class="vh-100 bg-cf-radial-orange">
   <div class="hv-center text-white text-center text-shadow">
     <p class="h1 font-weight-lighter">Empowering</p>
     <p class="h2 font-weight-lighter">Programmers and Creators</p>

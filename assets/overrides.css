@@ -1,3 +1,22 @@
+:root {
+  --font-family-sans-serif: "Goudy Bookletter 1911", "Raleway", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+  --font-family-headings: "Goudy Bookletter 1911", "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+  --font-family-monospace: "Consolas", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !important;
+}
+
+body {
+    font-family: var(--font-family-sans-serif);
+}
+
+.navbar, h1, h2, h3, h4, h5, h6, .h-font {
+  font-family: var(--font-family-headings);
+
+}
+
+pre {
+  font-family: var(--font-family-monospace);
+}
+
 .svg-icon {
   width: 16px;
   height: 16px;
@@ -5,12 +24,38 @@
   fill: #828282;
 }
 
+.navbar {
+  background-color: #141414ff !important;
+}
+
+.navbar-brand {
+  font-family: "Goudy Bookletter 1911";
+  position: relative;
+}
+
 .navbar-brand img {
   max-height: 35px;
   position: absolute;
-  top: 7px;
+  top: 2px;
 }
 
-.navbar-brand span {
-  padding-left: 40px;
+.navbar-brand span.logo-bg {
+  background-color: #ff4935ff;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  z-index: -1;
+  content: '';
 }
+
+.navbar-brand > span {
+  padding-left: 40px;
+  font-family: 'Cardo';
+}
+
+.navbar-brand .first-char {
+  font-size: 1.5rem;
+ }
