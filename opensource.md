@@ -32,7 +32,7 @@ published: true
 
   <div class="col-sm-4 py-3">
     <div class="card h-100 interactable hover-animate-cf">
-      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/rincewind">
+      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/rincewind-editor">
         <div class="embed-responsive embed-responsive-16by9">
           <div class="cf cf-red-orange">
             <img src="https://equilaterus.com/assets/img/projects/rincewind-editor.png" class="card-img embed-responsive-item" style="object-fit: cover;" />
