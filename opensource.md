@@ -11,6 +11,48 @@ published: true
 
   <div class="col-sm-4 py-3">
     <div class="card h-100 interactable hover-animate-cf">
+      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/rincewind">
+        <div class="embed-responsive embed-responsive-16by9">
+          <div class="cf cf-green-yellow">
+            <img src="https://equilaterus.com/assets/img/projects/rincewind.png" class="card-img embed-responsive-item" style="object-fit: cover;" />
+          </div>
+        </div>
+        <div class="card-body d-flex flex-column">
+          <p class="card-title h5 mb-1">Rincewind</p>
+          <p>
+            <img src="https://img.shields.io/github/v/release/equilaterus-gamestudios/rincewind?include_prereleases" alt="GitHub release">
+            <img src="https://img.shields.io/github/license/equilaterus-gamestudios/rincewind.svg" alt="GitHub license">
+          </p>
+          <p class="card-text">Rincewind is a magic machine built by druids, best known for being a videogame dialog system with <b>Unreal</b> built-in support.</p>  
+          <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm-4 py-3">
+    <div class="card h-100 interactable hover-animate-cf">
+      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/rincewind">
+        <div class="embed-responsive embed-responsive-16by9">
+          <div class="cf cf-red-orange">
+            <img src="https://equilaterus.com/assets/img/projects/rincewind-editor.png" class="card-img embed-responsive-item" style="object-fit: cover;" />
+          </div>
+        </div>
+        <div class="card-body d-flex flex-column">
+          <p class="card-title h5 mb-1">Rincewind Editor</p>
+          <p>
+            <img src="https://img.shields.io/github/v/release/equilaterus-gamestudios/rincewind-editor?include_prereleases" alt="GitHub release">
+            <img src="https://img.shields.io/github/license/equilaterus-gamestudios/rincewind-editor.svg" alt="GitHub license">
+          </p>
+          <p class="card-text">A safer way to use Rincewind, the magical machine built by druids. Say something wise, the elders are waiting.</p>  
+          <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm-4 py-3">
+    <div class="card h-100 interactable hover-animate-cf">
       <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/PlasticSCM-GitHub-extension">
         <div class="embed-responsive embed-responsive-16by9">
           <div class="cf cf-indigo-teal">
