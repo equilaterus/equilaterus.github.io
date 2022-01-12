@@ -11,6 +11,27 @@ published: true
 
   <div class="col-sm-4 py-3">
     <div class="card h-100 interactable hover-animate-cf">
+      <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/utility-ai-configurator">
+        <div class="embed-responsive embed-responsive-16by9">
+          <div class="cf cf-red-orange">
+            <img src="https://equilaterus.com/assets/img/projects/geppetto-ai.png" class="card-img embed-responsive-item" style="object-fit: cover;" />
+          </div>
+        </div>
+        <div class="card-body d-flex flex-column">
+          <p class="card-title h5 mb-1">Geppetto - UtilityAi Configurator</p>
+          <p>
+            <img src="https://img.shields.io/github/v/release/equilaterus-gamestudios/utility-ai-configurator?include_prereleases" alt="GitHub release">
+            <img src="https://img.shields.io/github/license/equilaterus-gamestudios/utility-ai-configurator.svg" alt="GitHub license">
+          </p>
+          <p class="card-text">Our Utility Configurator Ai for <b>Unreal</b>. Geppetto: the master of puppets.</p>  
+          <p class="card-text mt-auto"><small class="text-muted">See more...</small></p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="col-sm-4 py-3">
+    <div class="card h-100 interactable hover-animate-cf">
       <a class="text-reset text-decoration-none d-flex flex-column h-100" href="https://github.com/equilaterus-gamestudios/rincewind">
         <div class="embed-responsive embed-responsive-16by9">
           <div class="cf cf-green-yellow">
