@@ -1,0 +1,212 @@
+# showcase
+showcase:
+  enable: true
+  title: "Empowering"
+  subtitle: "Programmers and creators"
+  description: '<p class="lead">Our mission is to empower creative people to take high risk projects without compromising the artistic vision. For that endeavour, we create our own videogames and we share open source tools so that other people can use it on their own projects.</p> <p>Stay tuned for more information about our games!</p>'
+  image:
+    class: "img-clip-left-forward"
+    x: "game.png"
+    _2x: "game.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:dacanizares@outlook.com"
+  
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/company/equilaterus/"
+
+    - icon: "github"
+      URL: "https://github.com/equilaterus"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/equilaterusgs"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/equilaterus/"
+
+# about
+about:
+  enable: true
+  title: "Who we are?"
+  content: '<p class="lead">
+    We are Equilaterus and we are developing our own internal videogames and creating open source tools that other people can use on their own projects.
+    </p>
+    <p class="lead">
+    We are a team of experienced programmers and creatives that believe in <strong>open source</strong> and <strong>open knowledge</strong> as an empowering tool. 
+    </p>'
+  image:
+    x: "windmill.png"
+    _2x: "windmill.png"
+
+# experience
+experience:
+  enable: true
+  title: "Other open projects"
+  description: "We are commited to create open and free tools."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/company/radity/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Vortex"
+      company: "The ASP Core framework for Functional Programming."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See more"
+        URL: "https://github.com/equilaterus/Vortex"
+
+    - title: "Bootlaterus"
+      company: "The Compatible and Friendly Bootstrap Superset."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See more"
+        URL: "https://github.com/equilaterus/bootlaterus"
+
+    - title: "CLI-Tools for Powershell"
+      company: "Effortless Powershell Scripting!"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "See more"
+        URL: "https://github.com/equilaterus/cli-tools-powershell"
+
+  other_items:
+    - title: 'Picsor'
+      text: "Compress your images without compromising quality."
+      URL: 'https://github.com/equilaterus/picsor'
+
+    - title: 'Bootlaterus GitHub Pages'
+      text: "Easily integrate Bootstrap to your GitHub Pages."
+      URL: "https://github.com/equilaterus/bootlaterus.gh-pages"
+    - title: 'Windows-SSD Script'
+      text: "Extend the lifetime of your SSD unit on Windows."
+      URL: "https://equilaterus.com/WindowsSSD-Script/"
+
+
+# education
+education:
+  enable: true
+  title: "Open Knowledge"
+  items:
+    - university: "The Science of Code"
+      year: "Since 2015"
+      degree: "The Open Community for Programmers."
+      url: 'https://thescienceofcode.azurewebsites.net/'
+    - university: "Wikilaterus"
+      year: "Since 2018"
+      degree: "The Equilaterus' Wiki. Open for everyone."
+      url: 'https://equilaterus.com/wikilaterus/'
+
+# Client & Work
+client_and_work:
+  title: "Open-Source"
+  subtitle: "Our free tools for videogame creation"
+  enable: true
+
+  #clients:
+  #  - logo:
+  #      x: "img/clients/asgardia.png"
+  #      _2x: "img/clients/asgardia@2x.png"
+  #    alt: "Asgardia"
+  #
+  #  - logo:
+  #      x: "img/clients/earth-2.png"
+  #      _2x: "img/clients/earth-2@2x.png"
+  #    alt: "Earth 2.0"
+
+  works:
+    - title: "Geppetto AI"
+      description: "Our Utility Configurator Ai for Unreal. Geppetto: the master of puppets."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "GitHub Repository"
+        URL: "https://github.com/equilaterus-gamestudios/utility-ai-configurator"
+      image:
+        x: "geppetto-ai.png"
+        _2x: "geppetto-ai.png"
+      is_even: true
+
+    - title: "Rincewind"
+      description: "Rincewind is a magic machine built by druids, best known for being a videogame dialog system with Unreal built-in support."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "GitHub Repository"
+        URL: "https://github.com/equilaterus-gamestudios/rincewind-editor"
+      image:
+        x: "rincewind-editor.png"
+        _2x: "rincewind-editor.png"
+      is_even: false
+
+    - title: "PlasticSCM + Github"
+      description: "Rincewind is a magic machine built by druids, best known for being a videogame dialog system with Unreal built-in support."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "GitHub Repository"
+        URL: "https://github.com/equilaterus-gamestudios/PlasticSCM-GitHub-extension"
+      image:
+        x: "plastic.png"
+        _2x: "plastic.png"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    visible: false
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  email:
+    title: "Email"
+    email: '<a href="mailto:dacanizares@outlook.com">dacanizares@outlook.com</a>'
+  address:
+    title: "Our location"
+    address: "La Ceja - Antioquia, Colombia."
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
