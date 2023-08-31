@@ -28,7 +28,7 @@ jobs:
 
       -
         name: Build site
-        run:
+        run: |
           npm install
           npm run build
 
