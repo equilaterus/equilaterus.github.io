@@ -7,7 +7,7 @@ on:
 
 jobs:
   hugo:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       -
         name: Checkout
@@ -15,12 +15,23 @@ jobs:
         with:
           submodules: recursive
       -
-        name: Run Hugo
-        uses: crazy-max/ghaction-hugo@v1
+        name: Install node
+        uses: actions/setup-node@v1
         with:
-          version: v0.96.0
+          node-version: '10.x'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.117.0'
           extended: true
-          args: --cleanDestinationDir --minify --verbose
+
+      -
+        name: Build site
+        run:
+          npm install
+          npm run build
+
       -
         name: Deploy to GitHub Pages
         if: success() && github.event_name != 'pull_request'

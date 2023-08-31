@@ -1,2 +1,7 @@
 # Ignore generated site files
 /_site
+node_modules
+hugo
+public
+resources
+/assets/*/.generated
