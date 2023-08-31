@@ -26,11 +26,12 @@ jobs:
           hugo-version: '0.117.0'
           extended: true
 
-      -
-        name: Build site
-        run: |
-          npm install
-          npm run build
+      - name: Install dependencies
+        run: npm install
+      - name: Build styles
+        run: npm run build-styles
+      - name: Build site
+        run: npm run build
 
       -
         name: Deploy to GitHub Pages
