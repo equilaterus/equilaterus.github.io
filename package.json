@@ -18,7 +18,7 @@
     "watch:tw": "tailwindcss -i ./assets/css/main.css -o ./assets/css/.generated/style.css --watch",
     "watch:hugo": "hugo server -D",
     "watch-hugo-local": "./hugo server -D",
-    "build-styles": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/.generated/style.css --minify",
+    "build-styles": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/.generated/style.css",
     "build": "hugo --minify --verbose",
     "test": "hugo"
   },
