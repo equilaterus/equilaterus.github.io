@@ -15,10 +15,10 @@
   "scripts": {
     "start": "concurrently npm:watch:*",
     "hugo-local": "concurrently npm:watch:tw npm:watch-hugo-local",
-    "watch:tw": "tailwindcss -i ./assets/css/main.css -o ./assets/css/.generated/style.css --watch",
+    "watch:tw": "tailwindcss -i ./assets/css/main.css -o ./assets/css/generated/style.css --watch",
     "watch:hugo": "hugo server -D",
     "watch-hugo-local": "./hugo server -D",
-    "build": "tailwindcss -i ./assets/css/main.css -o ./assets/css/.generated/style.css --minify & hugo --minify --verbose --cleanDestinationDir",
+    "build": "tailwindcss -i ./assets/css/main.css -o ./assets/css/generated/style.css --minify & hugo --minify --verbose --cleanDestinationDir",
     "test": "hugo"
   },
   "repository": {

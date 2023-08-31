@@ -4,4 +4,4 @@ node_modules
 hugo
 public
 resources
-/assets/*/.generated
+/assets/*/generated
