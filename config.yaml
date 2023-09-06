@@ -2,7 +2,7 @@ baseURL: "https://equilaterus.github.io/"
 languageCode: "en-us"
 theme: "tailbliss"
 
-title: TailBliss
+title: Equilaterus
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -49,7 +49,9 @@ markup:
       xhtml: false
 
 params:
-  author: Nusser Studios
+  callToAction: Stories
+  heroImage: /game.png
+  author: Equilaterus
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Super Fast, and Flexible"

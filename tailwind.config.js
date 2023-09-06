@@ -5,6 +5,11 @@ module.exports = {
   content: ['./themes/tailbliss/layouts/**/*.html', './themes/tailbliss/content/**/*.md'],
   darkMode: 'class',
   theme: {
+    fontFamily: {
+      'sans': ['Josefin Sans', 'ui-sans-serif', 'system-ui'],
+      'serif': ['Righteous', 'ui-serif', 'Georgia'],
+      'mono': ['ui-monospace', 'SFMono-Regular'],
+    },
     extend: {
       colors: {
         transparent: 'transparent',
@@ -49,6 +54,20 @@ module.exports = {
           900: '#050506'
         },
         // To change these, use https://www.tailwindshades.com/ with https://tailwindcss.com/docs/customizing-colors or create your own custom colors.
+        // To generate color palettes: https://colorkit.io/#1e1610-#e0d0cc-10
+        'gray': {
+          DEFAULT: '#766A64',
+          50: '#E0D0CC',
+          100: '#CEBEB8',
+          200: '#B8A9A3',
+          300: '#A2948E',
+          400: '#8C7F79',
+          500: '#766A64',
+          600: '#60554F',
+          700: '#4A403A',
+          800: '#342B25',
+          900: '#1E1610'
+        },
       },
       lineHeight: {
         'extra-loose': '2.5',
