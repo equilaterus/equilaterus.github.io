@@ -17,7 +17,7 @@
     "hugo-local": "concurrently npm:watch:tw npm:watch-hugo-local",
     "watch:tw": "tailwindcss -i ./assets/css/main.css -o ./assets/css/out/style.css --watch",
     "watch:hugo": "hugo server -D",
-    "watch-hugo-local": "./hugo server -D",
+    "watch-hugo-local": "./.hugo server -D",
     "build-styles": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/out/style.css",
     "build": "hugo --minify --verbose",
     "test": "hugo"
