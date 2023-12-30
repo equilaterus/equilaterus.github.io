@@ -2,7 +2,7 @@
 
 ## Quick start (Linux)
 
-1. If you don't have a compatible version installed in your system (or if you find any problems trying to execute the project), download [hugo binaries](https://github.com/gohugoio/hugo/releases/tag/v0.117.0) and extract them inside the project folder. You should see a single file called **hugo** in your project root folder.
+1. If you don't have a compatible version installed in your system (or if you find any problems trying to execute the project), download [hugo binaries](https://github.com/gohugoio/hugo/releases/tag/v0.117.0) and extract them inside the project folder. You should see a single file called **hugo** in your project root folder, rename it to *.hugo*.
 
 2. Install **node** and run the following commands:
 
