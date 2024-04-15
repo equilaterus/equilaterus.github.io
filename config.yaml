@@ -60,7 +60,7 @@ params:
   og_image: /images/tailbliss-cover.png
   moto: "Empowering creators"
   description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
-  disable_theme_toggle: false
+  DisableThemeToggle: true
   disable_stay_uptodate: false
 
   p1:
