@@ -51,6 +51,7 @@ markup:
 params:
   ShowFullIntroSlide: true
   ShowSimpleIntroSlide: false
+  IncludeStars: true
 
   title_description: "Empowering programmers"
   callToAction: Open Source
