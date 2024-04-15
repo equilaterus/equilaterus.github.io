@@ -52,6 +52,7 @@ params:
   ShowFullIntroSlide: true
   ShowSimpleIntroSlide: false
   IncludeStars: true
+  NavbarSizeClass: max-w-screen-xl # max-w-full
 
   title_description: "Empowering programmers"
   callToAction: Open Source
