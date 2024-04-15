@@ -5,6 +5,15 @@
 
 /* Custom CSS */
 
+.bg-black {
+  background-color: #000;
+}
+
+.bg-stars {
+  background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
+  overflow: hidden;
+}
+
 .prose :where(h1):not(:where([class~="not-prose"] *)) {
     color: white !important;
 }

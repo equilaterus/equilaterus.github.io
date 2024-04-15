@@ -118,4 +118,19 @@ module.exports = {
     typography: ["dark"],
   },
   plugins: [require("@tailwindcss/typography")],
+
+  // Enabling SASS
+  mode: 'jit',
+  module: {
+    rules: [
+      {
+        test: /\.scss$/,
+        use: [
+          'style-loader',
+          'css-loader',
+          'sass-loader',
+        ],
+      },
+    ],
+  },
 };
