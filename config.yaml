@@ -49,14 +49,17 @@ markup:
       xhtml: false
 
 params:
+  ShowFullIntroSlide: true
+  ShowSimpleIntroSlide: false
+
   title_description: "Empowering programmers"
-  callToAction: Stories
+  callToAction: Open Source
   heroImage: /game.png
   author: Equilaterus
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Empowering creators"
-  description: "We build technology for videogame creation, enabling exploration."
+  description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
