@@ -14,30 +14,31 @@ module.exports = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
+        // https://colorkit.io/#f95142-#f2bb4e-10
         'primary': {
-          DEFAULT: '#6366F1',
-          50: '#FFFFFF',
-          100: '#F9F9FE',
-          200: '#D3D4FB',
-          300: '#AEAFF8',
-          400: '#888BF4',
-          500: '#6366F1',
-          600: '#3034EC',
-          700: '#1317D1',
-          800: '#0E119E',
-          900: '#0A0C6A'
+          DEFAULT: '#F58146',
+          50: '#F2BB4E',
+          100: '#F1B14A',
+          200: '#F2A549',
+          300: '#F39948',
+          400: '#F48D47',
+          500: '#F58146',
+          600: '#F67545',
+          700: '#F76944',
+          800: '#F85D43',
+          900: '#F95142'
         },
         'secondary': {
-          DEFAULT: '#EC4899',
-          50: '#FDEEF6',
-          100: '#FBDCEB',
-          200: '#F8B7D7',
-          300: '#F492C2',
-          400: '#F06DAE',
-          500: '#EC4899',
-          600: '#E4187D',
-          700: '#B11261',
-          800: '#7F0D45',
+          DEFAULT: '#F58146',
+          50: '#F2BB4E',
+          100: '#F1B14A',
+          200: '#F2A549',
+          300: '#F39948',
+          400: '#F48D47',
+          500: '#F58146',
+          600: '#F67545',
+          700: '#F76944',
+          800: '#F85D43',
           900: '#4C0829'
         },
         'neutral': {
@@ -54,19 +55,19 @@ module.exports = {
           900: '#050506'
         },
         // To change these, use https://www.tailwindshades.com/ with https://tailwindcss.com/docs/customizing-colors or create your own custom colors.
-        // To generate color palettes: https://colorkit.io/#1e1610-#e0d0cc-10
+        // To generate color palettes: https://colorkit.io/#0d0d0f-#ebe9d7-10
         'gray': {
-          DEFAULT: '#766A64',
-          50: '#E0D0CC',
-          100: '#CEBEB8',
-          200: '#B8A9A3',
-          300: '#A2948E',
-          400: '#8C7F79',
-          500: '#766A64',
-          600: '#60554F',
-          700: '#4A403A',
-          800: '#342B25',
-          900: '#1E1610'
+          DEFAULT: '#716D67',
+          50: '#EBE9D7',
+          100: '#D5CDBF',
+          200: '#BCB5A9',
+          300: '#A39D93',
+          400: '#8A857D',
+          500: '#716D67',
+          600: '#585551',
+          700: '#3F3D3B',
+          800: '#262525',
+          900: '#0D0D0F'
         },
       },
       lineHeight: {
