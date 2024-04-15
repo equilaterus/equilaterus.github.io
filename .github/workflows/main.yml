@@ -28,6 +28,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+      - name: Build stars
+        run: npm run build-stars
       - name: Build styles
         run: npm run build-styles
       - name: Build site
