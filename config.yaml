@@ -63,7 +63,7 @@ params:
   moto: "Empowering creators"
   description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
   DisableThemeToggle: true
-  disable_stay_uptodate: false
+  DisableStayUptodate: false
 
   p1:
     heading: "Our mission"
@@ -97,28 +97,34 @@ params:
     heading: "From the blog"
     content:
       - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
-  p5:
+
+  stayUpToDate:
     heading: "Stay Up to Date"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Follow us and get access to amazing open-source technology!"
+    showForm: false
+    showSocial: true
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"
     button: "Notify me"
 
-  social_media:
+  social:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/equilaterus'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://facebook.com/equilaterus'
     instagram:
+      enabled: false
+      url: 'https://instagram.com/equilaterus'
+    linkedin:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://www.linkedin.com/company/equilaterus'
     twitter:
       enabled: true
-      url: '@nusserstudios'
+      url: '@equilaterusgs'
 
 
 menu:
