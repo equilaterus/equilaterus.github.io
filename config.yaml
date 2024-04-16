@@ -150,6 +150,10 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
+    - identifier: legal
+      name: Legal
+      url: /legal/
+      weight: 60
   categories:
     - identifier: prose
       name: Prose
@@ -191,6 +195,10 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
+    - identifier: legal
+      name: Legal
+      url: /legal/
+      weight: 60
 
 markup:
   goldmark:
