@@ -54,6 +54,7 @@ params:
   ShowSimpleIntroSlide: false
   ShowSponsors: false
   IncludeStars: true
+  NavbarClasses: top-0 z-50 w-full md:sticky text-gray-200 bg-gray-900 border-2 border-gray-900  border-b-stone-200/10
   NavbarSizeClass: max-w-screen-xl # max-w-full
   DisableStayUptodate: false
 
