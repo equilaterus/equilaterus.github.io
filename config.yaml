@@ -49,6 +49,7 @@ markup:
       xhtml: false
 
 params:
+  ShowFullIntroVideoSlide: false
   ShowFullIntroSlide: true
   ShowSimpleIntroSlide: false
   ShowSponsors: false
@@ -67,6 +68,12 @@ params:
   og_image: /images/tailbliss-cover.png
   moto: "Empowering creators"
   description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
+
+  FullIntroVideo:
+    VideoUrl: https://videos.pexels.com/video-files/8303104/8303104-hd_1920_1080_24fps.mp4
+    VideoType: video/mp4
+    QuoteTitle: "Empowering"
+    Quotes: "Content creators, Web developers, Streamers, Innovators, Game developers"
 
   details:
     heading: "About us"
