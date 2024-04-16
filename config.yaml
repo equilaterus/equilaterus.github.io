@@ -54,6 +54,7 @@ params:
   ShowSponsors: false
   IncludeStars: true
   NavbarSizeClass: max-w-screen-xl # max-w-full
+  GeneralHtmlClass: dark
 
   title_description: "Empowering programmers"
   callToAction: Open Source
