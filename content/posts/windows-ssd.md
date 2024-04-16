@@ -3,7 +3,7 @@ title: "Released Windows-SSD"
 date: 2020-09-25
 draft: false
 language: en
-featured_image: 
+featured_image: /equilaterus-default.png
 summary: "Powershell scripts to automate symbolic link generation for SSD units on Windows."
 description: "Powershell scripts to automate symbolic link generation for SSD units on Windows."
 author: Equilaterus Team

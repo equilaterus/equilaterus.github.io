@@ -3,7 +3,7 @@ title: "Released CLI Tools for Powershell"
 date: 2021-01-14
 draft: false
 language: en
-featured_image: 
+featured_image: /equilaterus-default.png
 summary: "We've released our friendly but powerful Bootstrap superset. Create beautiful websites with Bootlaterus."
 description: "We've released our friendly but powerful Bootstrap superset. Create beautiful websites with Bootlaterus."
 author: Equilaterus Team

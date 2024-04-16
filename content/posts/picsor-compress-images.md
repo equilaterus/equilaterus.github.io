@@ -3,7 +3,7 @@ title: "Compress your images without lossing quality"
 date: 2018-17-10
 draft: false
 language: en
-featured_image: 
+featured_image: /equilaterus-default.png
 summary: "Powershell scripts to automate symbolic link generation for SSD units on Windows."
 description: "Powershell scripts to automate symbolic link generation for SSD units on Windows."
 author: Equilaterus Team
