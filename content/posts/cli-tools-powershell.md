@@ -4,15 +4,15 @@ date: 2021-01-14
 draft: false
 language: en
 featured_image: /equilaterus-default.png
-summary: "We've released our friendly but powerful Bootstrap superset. Create beautiful websites with Bootlaterus."
-description: "We've released our friendly but powerful Bootstrap superset. Create beautiful websites with Bootlaterus."
+summary: "We have released a new solution to make easier than ever writing Powershell utilities."
+description: "We have released a new solution to make easier than ever writing Powershell utilities."
 author: Equilaterus Team
 authorimage: /logo-equilaterus-windmill.png
 categories: Releases
 tags: Tools
 ---
 
-We've released a new solution to make easier than ever writing Powershell utilities. Say hello to effortless Powershell Scripting!
+We have released a new solution to make easier than ever writing Powershell utilities. Say hello to effortless Powershell Scripting!
 
 * Automatically handles the start location path avoiding errors when the script is located on subfolders or when it's called from different paths.
 
