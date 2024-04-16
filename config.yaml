@@ -140,16 +140,20 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /
+      url: /posts/
       weight: 20
     - identifier: dropdown
       pre: complexdropdown
-      name: Projects
+      name: Open-Source
       weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
       weight: 50
+    - identifier: legal
+      name: Legal
+      url: /legal/
+      weight: 60
   categories:
     - identifier: prose
       name: Prose
@@ -160,24 +164,18 @@ menu:
       url: /about/
       weight: 20
   dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
-      url: "#"
-      weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
-      post: "Check your latest comments"
-      url: "#"
-      weight: 20
-    - identifier: analytics
+    - identifier: github
       pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
-      url: "#"
-      weight: 30
+      name: Enterprise Github
+      post: "General Equilaterus repo"
+      url: "https://github.com/equilaterus/"
+      weight: 10
+    - identifier: githubgs
+      pre: stars # can be stars, comments or piechart
+      name: Videogames Github
+      post: "Equilaterus Gamestudios repo"
+      url: "https://github.com/equilaterus-gamestudios/"
+      weight: 20
   footer:
     - identifier: home
       name: Home
@@ -185,12 +183,16 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /categories/blog/
+      url: /posts/
       weight: 20
     - identifier: contact
       name: Contact
       url: /contact/
       weight: 50
+    - identifier: legal
+      name: Legal
+      url: /legal/
+      weight: 60
 
 markup:
   goldmark:
