@@ -55,7 +55,11 @@ params:
   ShowSponsors: false
   IncludeStars: true
   NavbarSizeClass: max-w-screen-xl # max-w-full
-  DisableStayUptodate: false
+
+  secondaryTitles: Legal,Contact,Blog
+  DisableStayUptodateHome: false
+  DisableStayUptodateList: false
+  DisableStayUptodateSingle: false
 
   GeneralHtmlClass: dark # Set to dark and DisableThemeToggle to run theme in dark mode by default
   DisableThemeToggle: true
@@ -67,7 +71,9 @@ params:
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Empowering creators"
+
   description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
+  # descriptionLink: "More info->/about/"
 
   FullIntroVideo:
     VideoUrl: https://videos.pexels.com/video-files/8303104/8303104-hd_1920_1080_24fps.mp4
@@ -82,6 +88,7 @@ params:
       - text: "We are a team of experienced programmers and creatives that believe in technology as an empowerment mechanism."
       - text: "Our Mission is to empower creative people using software as a foundation, allowing everyone to take on high risk projects without compromising quality or artistic vision."
       - text: "Because of that, we decided to build hand-made technology focused on simplifying development workflows and share almost all of our code with the world."
+    # contentLink: "More info->/about/"
   moreDetails:
     heading: "Hand-made solutions for game developers"
     image: "/geppetto-ai.png"
