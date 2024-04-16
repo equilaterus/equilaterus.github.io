@@ -54,7 +54,10 @@ params:
   ShowSponsors: false
   IncludeStars: true
   NavbarSizeClass: max-w-screen-xl # max-w-full
-  GeneralHtmlClass: dark
+  DisableStayUptodate: false
+
+  GeneralHtmlClass: dark # Set to dark and DisableThemeToggle to run theme in dark mode by default
+  DisableThemeToggle: true
 
   title_description: "Empowering programmers"
   callToAction: Open Source
@@ -64,8 +67,6 @@ params:
   og_image: /images/tailbliss-cover.png
   moto: "Empowering creators"
   description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
-  DisableThemeToggle: true
-  DisableStayUptodate: false
 
   p1:
     heading: "About us"
