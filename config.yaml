@@ -80,7 +80,8 @@ params:
     image: "/geppetto-ai.png"
     content:
       - text: "We believe that programming is about solving real problems, that is why our code is rocksolid while being fast and easy to understand. Our team has worked on different platforms, engines and toolkits including Unity an Unreal Engine."
-      - text: "With that experience, we have started our journey of building a C powered game engine. Stay tunned for upcoming updates."
+      - text: "With that experience, we have started our journey of building a C powered game engine."
+      - text: "Stay tunned for upcoming updates."
   p3:
     heading: "Backed by world-renowned investors"
     content:
