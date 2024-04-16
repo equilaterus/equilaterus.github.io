@@ -68,21 +68,21 @@ params:
   moto: "Empowering creators"
   description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
 
-  p1:
+  details:
     heading: "About us"
     image: "/game-2.png"
     content:
       - text: "We are a team of experienced programmers and creatives that believe in technology as an empowerment mechanism."
       - text: "Our Mission is to empower creative people using software as a foundation, allowing everyone to take on high risk projects without compromising quality or artistic vision."
       - text: "Because of that, we decided to build hand-made technology focused on simplifying development workflows and share almost all of our code with the world."
-  p2:
+  moreDetails:
     heading: "Hand-made solutions for game developers"
     image: "/geppetto-ai.png"
     content:
       - text: "We believe that programming is about solving real problems, that is why our code is rocksolid while being fast and easy to understand. Our team has worked on different platforms, engines and toolkits including Unity an Unreal Engine."
       - text: "With that experience, we have started our journey of building a C powered game engine."
       - text: "Stay tunned for upcoming updates."
-  p3:
+  sponsors:
     heading: "Backed by world-renowned investors"
     content:
       - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
@@ -98,10 +98,10 @@ params:
       - identifier: d
       - identifier: e
       - identifier: f
-  p4:
+  fromTheBlog:
     heading: "From the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "News, releases and devlogs."
 
   stayUpToDate:
     heading: "Stay Up to Date"
@@ -179,22 +179,14 @@ menu:
       url: "#"
       weight: 30
   footer:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: home
+      name: Home
+      url: /
       weight: 10
     - identifier: blog
       name: Blog
       url: /categories/blog/
       weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
-      weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
