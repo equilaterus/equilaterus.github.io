@@ -140,7 +140,7 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /
+      url: /posts/
       weight: 20
     - identifier: dropdown
       pre: complexdropdown
@@ -183,7 +183,7 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /categories/blog/
+      url: /posts/
       weight: 20
     - identifier: contact
       name: Contact
