@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+<main>
+  {{ partial "slide-fullintro" (dict "Context" .Site.Params.Intro ) }}
+
+  {{ partial "section-right" (dict "Context" .Site.Params.Details ) }}
+  {{ partial "section-left" (dict "Context" .Site.Params.MoreDetails ) }}
+  {{ partial "home-blog" . }}
+
+  {{ partial "stayuptodate" . }}
+</main>
+{{ end }}

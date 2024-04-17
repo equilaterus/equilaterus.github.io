@@ -49,35 +49,28 @@ markup:
       xhtml: false
 
 params:
-  ShowFullIntroVideoSlide: false
-  ShowFullIntroSlide: true
-  ShowSimpleIntroSlide: false
-  ShowSponsors: false
   IncludeStars: true
   NavbarSizeClass: max-w-screen-xl # max-w-full
-
   secondaryTitles: Legal,Contact,Blog
-  DisableStayUptodateHome: false
-  DisableStayUptodateList: false
-  DisableStayUptodateSingle: false
-
   GeneralHtmlClass: dark # Set to dark and DisableThemeToggle to run theme in dark mode by default
   DisableThemeToggle: true
 
   title_description: "Empowering programmers"
-  callToAction: Open Source
-  heroImage: /game.png
-  author: Equilaterus
+  og_image: /equilaterus-default.png
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
-  moto: "Empowering creators"
+  author: Equilaterus
 
-  description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
-  # descriptionLink: "More info->/about/"
+  Intro:
+    IncludeStars: true
+    title: Open Source
+    subtile: "Empowering creators"
+    image: /game.png
+    description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
+    #link: "More info->/about/"
 
-  FullIntroVideo:
     VideoUrl: https://videos.pexels.com/video-files/8303104/8303104-hd_1920_1080_24fps.mp4
     VideoType: video/mp4
+    EnableQuotes: true
     QuoteTitle: "Empowering"
     Quotes: "Content creators, Web developers, Streamers, Innovators, Game developers"
 
@@ -88,7 +81,7 @@ params:
       - text: "We are a team of experienced programmers and creatives that believe in technology as an empowerment mechanism."
       - text: "Our Mission is to empower creative people using software as a foundation, allowing everyone to take on high risk projects without compromising quality or artistic vision."
       - text: "Because of that, we decided to build hand-made technology focused on simplifying development workflows and share almost all of our code with the world."
-    # contentLink: "More info->/about/"
+    #link: "More info->/about/"
   moreDetails:
     heading: "Hand-made solutions for game developers"
     image: "/geppetto-ai.png"
@@ -96,6 +89,7 @@ params:
       - text: "We believe that programming is about solving real problems, that is why our code is rocksolid while being fast and easy to understand. Our team has worked on different platforms, engines and toolkits including Unity an Unreal Engine."
       - text: "With that experience, we have started our journey of building a C powered game engine."
       - text: "Stay tunned for upcoming updates."
+    #link: "More info->/about/"
   sponsors:
     heading: "Backed by world-renowned investors"
     content:
@@ -108,6 +102,7 @@ params:
         image: "images/global/sample-logo.svg"
         alt: "a"
       - identifier: b
+        image: "/geppetto-ai.png"
       - identifier: c
       - identifier: d
       - identifier: e
