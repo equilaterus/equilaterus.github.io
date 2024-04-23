@@ -159,9 +159,9 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
-    - identifier: legal
-      name: Legal
-      url: /legal/
+    - identifier: wiki
+      name: Wiki
+      url: https://equilaterus.com/wiki
       weight: 60
   categories:
     - identifier: prose
@@ -198,10 +198,15 @@ menu:
       name: Contact
       url: /contact/
       weight: 50
+    - identifier: wiki
+      name: Wiki
+      url: https://equilaterus.com/wiki
+      weight: 60
     - identifier: legal
       name: Legal
       url: /legal/
-      weight: 60
+      weight: 70
+
 
 markup:
   goldmark:
