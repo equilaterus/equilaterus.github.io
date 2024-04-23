@@ -2,7 +2,7 @@ const defaultTheme = require('tailwindcss/defaultTheme')
 
 // tailwind.config.js
 module.exports = {
-  content: ['./themes/tailbliss/layouts/**/*.html', './themes/tailbliss/content/**/*.md'],
+  content: ['./themes/tailbliss/layouts/**/*.html', './themes/tailbliss/content/**/*.md', './layouts/**/*.html', './content/**/*.md'],
   darkMode: 'class',
   theme: {
     fontFamily: {
