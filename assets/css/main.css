@@ -90,10 +90,12 @@
 
 .hero-image {
   animation: tv-animated 10s linear infinite;
+}
 
-  /* Diagonal cut */
-  @media screen(lg) {
-  -webkit-clip-path: polygon(14% 0,100% 0,100% 100%,0 100%);
+/* Diagonal cut */
+@media screen(lg) {
+  .hero-image {
+    -webkit-clip-path: polygon(14% 0,100% 0,100% 100%,0 100%);
     clip-path: polygon(14% 0,100% 0,100% 100%,0);
   }
 }
