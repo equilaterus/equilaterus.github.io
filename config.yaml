@@ -74,6 +74,19 @@ params:
     QuoteTitle: "Empowering"
     Quotes: "Content creators, Web developers, Streamers, Innovators, Game developers"
 
+  solutions:
+    heading: "What we do"
+    subheading: "Simplifying technology workflows"
+    content:
+      - title: "Videogame creation"
+        text: "We create videogames and realtime technology using in-house solutions or engines like Unreal or Unity."
+        link: "Contact us->/contact/"
+        icon: gamepad
+      - title: "Open Source"
+        text: "Our team is commited to create open solutions that anyone, anywhere can start using for free."
+        icon: computer
+        link: "Open repositories->https://github.com/equilaterus"
+
   details:
     heading: "About us"
     image: "/game-2.png"
