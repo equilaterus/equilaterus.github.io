@@ -66,7 +66,9 @@ params:
     subtile: "Empowering creators"
     image: /game.png
     description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
-    #link: "More info->/about/"
+    #link:
+    #  text: More info
+    #  url: /about/
 
     VideoUrl: https://videos.pexels.com/video-files/8303104/8303104-hd_1920_1080_24fps.mp4
     VideoType: video/mp4
@@ -79,13 +81,19 @@ params:
     subheading: "Simplifying technology workflows"
     content:
       - title: "Videogame creation"
-        text: "We create videogames and realtime technology using in-house solutions or engines like Unreal or Unity."
-        link: "Contact us->/contact/"
+        text: "We create videogames and realtime technology using in-house solutions and comercial engines like Unreal/Unity."
+        link:
+          text: Contact us
+          url: /contact/
+          partial: link-secondary-responsive
         icon: gamepad
       - title: "Open Source"
         text: "Our team is commited to create open solutions that anyone, anywhere can start using for free."
         icon: computer
-        link: "Open repositories->https://github.com/equilaterus"
+        link:
+          text: Open repositories
+          url: https://github.com/equilaterus
+          partial: link-secondary-responsive
 
   details:
     heading: "About us"
@@ -94,7 +102,9 @@ params:
       - text: "We are a team of experienced programmers and creatives that believe in technology as an empowerment mechanism."
       - text: "Our Mission is to empower creative people using software as a foundation, allowing everyone to take on high risk projects without compromising quality or artistic vision."
       - text: "Because of that, we decided to build hand-made technology focused on simplifying development workflows and share almost all of our code with the world."
-    #link: "More info->/about/"
+    #link:
+    #  text: More info
+    #  url: /about/
   moreDetails:
     heading: "Hand-made solutions for game developers"
     image: "/geppetto-ai.png"
@@ -102,7 +112,9 @@ params:
       - text: "We believe that programming is about solving real problems, that is why our code is rocksolid while being fast and easy to understand. Our team has worked on different platforms, engines and toolkits including Unity an Unreal Engine."
       - text: "With that experience, we have started our journey of building a C powered game engine."
       - text: "Stay tunned for upcoming updates."
-    #link: "More info->/about/"
+    #link:
+    #  text: More info
+    #  url: /about/
   sponsors:
     heading: "Backed by world-renowned investors"
     content:
