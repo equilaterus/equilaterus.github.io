@@ -62,10 +62,10 @@ params:
 
   Intro:
     IncludeStars: true
-    title: Open Source
+    title: Software consulting
     subtile: "Empowering creators"
     image: /game.png
-    description: "We build technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
+    description: "We build custom software and technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
     #link:
     #  text: More info
     #  url: /about/
@@ -80,8 +80,8 @@ params:
     heading: "What we do"
     subheading: "Simplifying technology workflows"
     content:
-      - title: "Videogame creation"
-        text: "We create videogames and realtime technology using in-house solutions and comercial engines like Unreal/Unity."
+      - title: "Custom Software"
+        text: "We create custom software including apps, videogames and realtime technology using in-house solutions and comercial engines like Unreal/Unity."
         link:
           text: Contact us
           url: /contact/
