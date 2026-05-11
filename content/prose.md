@@ -61,8 +61,8 @@ Now you can use the prose classes to add sensible typography styles to any vanil
 </article>
 ```
 
-## Choosing a gray scale
-This plugin includes a modifier class for each of the five gray scales Tailwind includes by default so you can easily style your content to match the grays you’re using in your project.
+## Choosing a grayscale
+This plugin includes a modifier class for each of the five grayscales Tailwind includes by default, so you can easily style your content to match the grays you’re using in your project.
 
 ```
 <article class="prose prose-slate">
@@ -72,7 +72,7 @@ This plugin includes a modifier class for each of the five gray scales Tailwind 
 
 ## Here are the classes that are generated using a totally default Tailwind CSS v2.0 build:
 
-| Class | Gray scale |
+| Class | Grayscale |
 | ----------- | ----------- |
 | prose-gray (default) | Gray |
 | prose-slate | Slate |
@@ -82,7 +82,7 @@ This plugin includes a modifier class for each of the five gray scales Tailwind 
 
 Modifier classes are designed to be used with the multi-class modifier pattern and must be used in conjunction with the base prose class.
 
-Always include the `prose` class when adding a gray scale modifier
+Always include the `prose` class when adding a grayscale modifier.
 
 ```
 <article class="prose prose-stone">
@@ -144,7 +144,7 @@ Each default color theme includes a hand-designed dark mode version that you can
 To learn about creating your own color themes, read the adding custom color themes documentation.
 
 ​
-Element modifiers
+## Element modifiers
 Use element modifiers to customize the style of individual elements in your content directly in your HTML:
 
 ```
@@ -195,8 +195,8 @@ When stacking these modifiers with other modifiers like hover, you most likely w
 
 ## Read the Tailwind CSS documentation on ordering stacked modifiers to learn more.
 ​
-Overriding max-width
-Each size modifier comes with a baked in max-width designed to keep the content as readable as possible. This isn’t always what you want though, and sometimes you’ll want the content to just fill the width of its container.
+## Overriding max-width
+Each size modifier comes with a baked-in max-width designed to keep the content as readable as possible. This isn’t always what you want, though, and sometimes you’ll want the content to fill the width of its container.
 
 In those cases, all you need to do is add max-w-none to your content to override the embedded max-width:
 
@@ -215,7 +215,7 @@ In those cases, all you need to do is add max-w-none to your content to override
 
 ## Advanced topics
 ​
-Undoing typography styles
+## Undoing typography styles
 If you have a block of markup embedded in some content that shouldn’t inherit the prose styles, use the not-prose class to sandbox it:
 
 ```

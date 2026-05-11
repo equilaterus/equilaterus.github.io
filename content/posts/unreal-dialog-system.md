@@ -4,15 +4,15 @@ date: 2022-01-31
 draft: false
 language: en
 featured_image: /rincewind-editor.png
-summary: "We have released version 1.3.0 of our Dialog System for Unreal Engine, Rincewind Editor."
-description: "We have released version 1.3.0 of our Dialog System for Unreal Engine, Rincewind Editor."
+summary: "We have released version 1.3.0 of our dialog system for Unreal Engine, Rincewind Editor."
+description: "We have released version 1.3.0 of our dialog system for Unreal Engine, Rincewind Editor."
 author: Equilaterus Team
 authorimage: /logo-equilaterus-windmill.png
 categories: Releases
 tags: VideogamesDev
 ---
 
-We have released version 1.3.0 of our Dialog System for Unreal Engine, Rincewind Editor. It's completely free and open source. It was created on ElectronJS so it runs on Linux, Windows and Mac. We provide the binaries for Windows but you can compile it for other systems.
+We have released version 1.3.0 of our dialog system for Unreal Engine, Rincewind Editor. It's completely free and open source. It was built with ElectronJS, so it runs on Linux, Windows, and macOS. We provide binaries for Windows, but you can compile it for other systems.
 
 To start using it, just go to the repository:
 
@@ -24,7 +24,7 @@ https://github.com/equilaterus-gamestudios/rincewind
 
 
 
-An example of Rincewind's Syntax:
+An example of Rincewind's syntax:
 
 ```md
 # start
@@ -62,4 +62,3 @@ An example of Rincewind's Syntax:
 
 # end
 ```
-

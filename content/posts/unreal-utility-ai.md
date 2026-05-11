@@ -12,12 +12,12 @@ categories: Releases
 tags: VideogamesDev
 ---
 
-We have released version 1.0.2 of our Utility AI configurator for Unreal Engine. It's completely free and open source. It was created on ElectronJS so it runs on Linux, Windows and Mac. We provide the binaries for Windows but you can compile it for other systems.
+We have released version 1.0.2 of our Utility AI configurator for Unreal Engine. It's completely free and open source. It was built with ElectronJS, so it runs on Linux, Windows, and macOS. We provide binaries for Windows, but you can compile it for other systems.
 
 To start using it, just go to the repository:
 
 https://github.com/equilaterus-gamestudios/utility-ai-configurator 
 
-Learn more about Utility AI on this YouTube video:
+Learn more about Utility AI in this YouTube video:
 
 {{< youtube VoJm91Y6l8I >}}
