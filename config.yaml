@@ -65,7 +65,7 @@ params:
     title: Software consulting
     subtile: "Empowering creators"
     image: /game.png
-    description: "We build custom software and technology for videogame creation, maximizing exploration and innovation capabilities for small and medium sized teams."
+    description: "We build custom software and technology for video game creation, maximizing exploration and innovation capabilities for small and medium-sized teams."
     #link:
     #  text: More info
     #  url: /about/
@@ -81,14 +81,14 @@ params:
     subheading: "Simplifying technology workflows"
     content:
       - title: "Custom Software"
-        text: "We create custom software including apps, videogames and realtime technology using in-house solutions and comercial engines like Unreal/Unity."
+        text: "We create custom software, including apps, video games, and real-time technology, using in-house solutions and commercial engines like Unreal and Unity."
         link:
           text: Contact us
           url: /contact/
           partial: link-secondary-responsive
         icon: gamepad
       - title: "Open Source"
-        text: "Our team is commited to create open solutions that anyone, anywhere can start using for free."
+        text: "Our team is committed to creating open solutions that anyone, anywhere can start using for free."
         icon: computer
         link:
           text: Open repositories
@@ -100,7 +100,7 @@ params:
     image: "/game-2.png"
     content:
       - text: "We are a team of experienced programmers and creatives that believe in technology as an empowerment mechanism."
-      - text: "Our Mission is to empower creative people using software as a foundation, allowing everyone to take on high risk projects without compromising quality or artistic vision."
+      - text: "Our mission is to empower creative people using software as a foundation, allowing everyone to take on high-risk projects without compromising quality or artistic vision."
       - text: "Because of that, we decided to build hand-made technology focused on simplifying development workflows and share almost all of our code with the world."
     #link:
     #  text: More info
@@ -109,9 +109,9 @@ params:
     heading: "Hand-made solutions for game developers"
     image: "/geppetto-ai.png"
     content:
-      - text: "We believe that programming is about solving real problems, that is why our code is rocksolid while being fast and easy to understand. Our team has worked on different platforms, engines and toolkits including Unity an Unreal Engine."
+      - text: "We believe that programming is about solving real problems. That is why our code is rock-solid while remaining fast and easy to understand. Our team has worked on different platforms, engines, and toolkits, including Unity and Unreal Engine."
       - text: "With that experience, we have started our journey of building a C powered game engine."
-      - text: "Stay tunned for upcoming updates."
+      - text: "Stay tuned for upcoming updates."
     #link:
     #  text: More info
     #  url: /about/
@@ -135,7 +135,7 @@ params:
   fromTheBlog:
     heading: "From the blog"
     content:
-      - text: "News, releases and devlogs."
+      - text: "News, releases, and devlogs."
 
   stayUpToDate:
     heading: "Stay Up to Date"
@@ -200,13 +200,13 @@ menu:
   dropdown:
     - identifier: github
       pre: piechart # can be stars, comments or piechart
-      name: Enterprise Github
+      name: Enterprise GitHub
       post: "General Equilaterus repo"
       url: "https://github.com/equilaterus/"
       weight: 10
     - identifier: githubgs
       pre: stars # can be stars, comments or piechart
-      name: Videogames Github
+      name: Video Games GitHub
       post: "Equilaterus Gamestudios repo"
       url: "https://github.com/equilaterus-gamestudios/"
       weight: 20

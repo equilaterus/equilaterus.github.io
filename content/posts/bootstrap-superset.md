@@ -5,7 +5,7 @@ draft: false
 language: en
 featured_image: /bootlaterus.png
 summary: "We have released our friendly but powerful Bootstrap superset. Create beautiful websites with Bootlaterus."
-description: "Wehave released our friendly but powerful Bootstrap superset. Create beautiful websites with Bootlaterus."
+description: "We have released our friendly but powerful Bootstrap superset. Create beautiful websites with Bootlaterus."
 author: Equilaterus Team
 authorimage: /logo-equilaterus-windmill.png
 categories: Releases
